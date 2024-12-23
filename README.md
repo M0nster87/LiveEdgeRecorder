@@ -12,3 +12,18 @@ Um das Projekt auszuführen alle benötigten Python-Pakete installieren.
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Nutzung
+
+1. **Starte das Skript**:
+
+2. **Tastenkürzel**:
+   - `f`: Foto aufnehmen und im Ordner `captures/` speichern.
+   - `v`: Videoaufnahme starten und im `.avi`-Format speichern.
+   - `s`: Videoaufnahme stoppen.
+   - `q`: Programm beenden.
+
+3. **Ergebnisse speichern**:
+   - Fotos werden im `captures/` Ordner unter einem Zeitstempel gespeichert.
+   - Videos werden ebenfalls im `captures/` Ordner gespeichert und auch mit Zeitstempel benannt.
