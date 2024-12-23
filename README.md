@@ -2,6 +2,7 @@
 
 Dieses Projekt erkennt Kanten in einem Live-Video und ermöglicht es, Fotos und Videos von den erkannten Kanten zu speichern.
 
+Volage für das Projekt von `The Morpheus Tutorials` --> [https://www.youtube.com/watch?v=-XXj-uLdGmQ]
 ## Funktionen:
 - Dynamische Kantenerkennung mit benutzerdefinierten Schwellenwerten.
 - Fotos im `.jpg`-Format speichern.
